@@ -113,7 +113,7 @@ function Index() {
       </header>
 
       {/* HERO */}
-      <section className="scene relative flex min-h-screen flex-col justify-center overflow-hidden pt-28 pb-16">
+      <section className="scene relative flex min-h-screen flex-col justify-start overflow-hidden pt-32 pb-16 sm:pt-36">
         <div
           className="pointer-events-none absolute inset-x-0 top-1/3 h-[70vh] grid-floor"
           style={{ transform: `perspective(700px) rotateX(68deg) translateY(${scroll * 0.15}px)` }}
