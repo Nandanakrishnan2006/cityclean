@@ -19,8 +19,8 @@ Municipal teams end up routing collection trucks on guesswork instead of data.
 ## The idea
 
 Turn every citizen into a sensor. A report takes under a minute: name, location, waste type,
-severity. It lands on a shared map with real coordinates, so hotspots become visible,
-prioritisable, and measurable.
+severity. It lands on a shared map with real coordinates, so hotspots become visible, easy to
+prioritise, and measurable.
 
 ---
 
